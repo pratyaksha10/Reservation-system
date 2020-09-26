@@ -130,12 +130,12 @@ void insert_elements()
     append(2,"Coffee             100 ml",15.00);
     append(3,"Soup               150 ml",30.00);
     append(4,"Water Bottle           1L",20.00);
-    append(5,"Idli-Vada                ",40.00);
+    append(5,"Idli Vada                ",40.00);
     append(6,"Upma                     ",40.00);
     append(7,"Pongal                   ",40.00);
-    append(8,"Egg-Omlet                ",50.00);
+    append(8,"Egg Omlet                ",50.00);
     append(9,"Standard Veg Meal        ",100.00);
-    append(10,"Standard Non-Veg Meal   ",120.00);
+    append(10,"Standard Non Veg Meal   ",120.00);
     append(11,"Veg Biriyani     (350gm)",70.00);
     append(12,"Egg Biriyani     (350gm)",80.00);
     append(13,"Chicken Biriyani (350gm)",80.00);
