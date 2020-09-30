@@ -73,7 +73,7 @@ void add_train()
     char temp;
 
 
-    train_id: printf("\nEnter Train ID: ");
+    train_id: printf("\nEnter the  Train ID: ");
     scanf("%d",&train_id);
 
     if(train_id<0)
