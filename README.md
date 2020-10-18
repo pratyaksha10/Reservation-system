@@ -6,8 +6,6 @@
 
 # billing module
 
-# extra services
-
-# order 
+# extra services 
 
 # exit
