@@ -2,7 +2,7 @@
 
 # main module
 
-# resevation module
+# reservation module
 
 # billing module
 
